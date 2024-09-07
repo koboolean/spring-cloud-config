@@ -4,3 +4,6 @@ token:
 
 gateway: 
   ip: 192.168.45.104
+
+server:
+  port: 8888
